@@ -1,6 +1,6 @@
 ****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 11
+##Pokémon - 12
 
 * 1 Oranguru PR-SM 13
 * 2 Shaymin-EX ROS 106
@@ -8,9 +8,10 @@
 * 3 Darkrai-GX BUS 88
 * 1 Sableye DEX 62
 * 1 Sudowoodo GRI 66
+* 1 Oricorio PR-SM 19
 * 1 Tapu Lele-GX GRI 137
 
-##Trainer Cards - 39
+##Trainer Cards - 38
 
 * 1 Computer Search BCR 137
 * 1 N PR-BLW 100
@@ -19,15 +20,16 @@
 * 3 Battle Compressor Team Flare Gear PHF 92
 * 1 Cynthia UPR 119
 * 1 Field Blower GRI 125
-* 2 Virbank City Gym PLS 126
-* 2 Guzma BUS 115
-* 4 Max Elixir BKP 102
+* 3 Virbank City Gym PLS 126
+* 1 Guzma BUS 115
+* 3 Max Elixir BKP 102
 * 1 Colress PLS 118
 * 4 Ultra Ball SUM 135
 * 3 Choice Band GRI 121
-* 4 Dark Patch DEX 93
+* 3 Dark Patch DEX 93
 * 3 Professor Juniper BLW 101
 * 4 VS Seeker PHF 109
+* 1 Professor Kukui SUM 128
 
 ##Energy - 10
 

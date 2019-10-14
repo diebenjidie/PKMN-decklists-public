@@ -17,15 +17,15 @@
 * 1 Adventure Bag LOT 167
 * 4 Mysterious Treasure FLI 113
 * 4 Pokémon Communication TEU 152
-* 4 Acro Bike PRC 122
+* 3 Judge FLI 108
 * 1 Shrine of Punishment CES 143
-* 3 Reset Stamp UNM 206
 * 1 Copycat CES 127
 * 3 Cynthia UPR 119
 * 1 Tate & Liza CES 148
 * 3 Pokégear 3.0 UNB 182
 * 1 Lillie UPR 125
 * 4 U-Turn Board UNM 211
+* 4 Judge Whistle TEU 146
 * 1 Blizzard Town UNM 187
 
 ##Energy - 4

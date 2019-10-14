@@ -17,7 +17,7 @@
 * 1 Computer Search BCR 137
 * 1 Rescue Stretcher GRI 130
 * 4 Lillie SUM 122
-* 1 Power Plant UNB 183
+* 1 Shrine of Punishment CES 143
 * 4 Cynthia UPR 119
 * 1 Guzma BUS 115
 * 2 Net Ball LOT 187

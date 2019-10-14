@@ -1,14 +1,15 @@
 ****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 15
+##Pokémon - 16
 
 * 4 Shaymin-EX ROS 77
 * 2 Garchomp & Giratina-GX UNM 146
 * 1 Marshadow SLG 45
-* 4 Misdreavus CIN 39
-* 4 Mismagius UNB 78
+* 3 Misdreavus CIN 39
+* 3 Tapu Lele-GX GRI 137
+* 3 Mismagius UNB 78
 
-##Trainer Cards - 42
+##Trainer Cards - 41
 
 * 2 Mars UPR 128
 * 4 Chip-Chip Ice Axe UNB 165
@@ -19,12 +20,13 @@
 * 1 Karate Belt UNM 201
 * 1 Gladion CIN 95
 * 4 Dusk Stone UNB 167
-* 4 Reset Stamp UNM 206
+* 3 Reset Stamp UNM 206
 * 2 Lt. Surge's Strategy UNB 178
 * 4 Ultra Ball SUM 135
+* 1 N FCO 105
 * 2 Sky Field ROS 89
 * 1 Ace Trainer AOR 69
-* 3 Float Stone BKT 137
+* 2 Float Stone BKT 137
 * 3 VS Seeker PHF 109
 
 ##Energy - 3

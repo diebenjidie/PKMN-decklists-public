@@ -3,28 +3,26 @@
 ##Pokémon - 13
 
 * 2 Dedenne-GX UNB 57
-* 2 Pikachu & Zekrom-GX TEU 33
-* 2 Raichu & Alolan Raichu-GX UNM 54
+* 2 Pikachu & Zekrom-GX PR-SM 168
+* 1 Raichu & Alolan Raichu-GX UNM 54
 * 1 Tapu Koko {*} TEU 51
 * 1 Zapdos TEU 40
 * 1 Zeraora-GX LOT 221
-* 3 Jirachi PR-SM 161
-* 1 Sigilyph-GX LOT 98
+* 4 Jirachi PR-SM 161
+* 1 Mew UNB 76
 
 ##Trainer Cards - 36
 
-* 1 Escape Board UPR 122
-* 1 Cherish Ball UNM 191
 * 1 Thunder Mountain {*} LOT 191
 * 1 Tag Switch UNM 209
 * 2 Pokémon Communication TEU 152
+* 4 Switch CES 147
 * 2 Energy Switch CES 129
 * 2 Reset Stamp UNM 206
-* 4 Switch SUM 132
 * 1 Stadium Nav UNM 208
-* 3 Volkner UPR 135
-* 3 Electromagnetic Radar UNB 169
-* 1 Cyrus {*} UPR 120
+* 4 Volkner UPR 135
+* 1 Escape Board UPR 122
+* 4 Electromagnetic Radar UNB 169
 * 2 Lysandre Labs FLI 111
 * 4 Custom Catcher LOT 171
 * 4 Electropower LOT 172

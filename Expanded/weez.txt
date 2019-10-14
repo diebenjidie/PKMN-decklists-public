@@ -1,36 +1,36 @@
 ****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 18
+##Pokémon - 17
 
-* 1 Ditto {*} LOT 154
+* 1 Oranguru PR-SM 13
 * 1 Larvitar LOT 115
-* 1 Tapu Koko PR-SM 31
-* 4 Jirachi PR-SM 161
+* 2 Tapu Koko PR-SM 30
 * 4 Koffing UNB 73
 * 1 Marshadow SLG 45
 * 1 Mew UNB 76
+* 1 Mr. Mime TEU 66
+* 1 Tapu Lele PR-SM 45
 * 4 Weezing UNB 74
 * 1 Frost Rotom UPR 41
 
-##Trainer Cards - 33
+##Trainer Cards - 35
 
-* 2 Escape Board UPR 122
-* 1 Adventure Bag LOT 167
 * 4 Spell Tag LOT 190
 * 4 Mysterious Treasure FLI 113
-* 2 Rescue Stretcher GRI 130
-* 3 Shrine of Punishment CES 143
-* 2 Guzma BUS 115
-* 4 Lillie SUM 122
+* 3 Energy Loto GRI 122
+* 4 Lillie SLG 62
+* 3 Rescue Stretcher GRI 130
+* 1 Guzma BUS 115
 * 4 Nest Ball SUM 123
 * 4 Cynthia UPR 119
-* 3 Escape Rope BUS 114
+* 2 Counter Catcher CIN 91
+* 3 Pokégear 3.0 UNB 182
+* 3 Shrine of Punishment CES 143
 
-##Energy - 9
+##Energy - 8
 
 * 4 Counter Energy CIN 100
 * 4 Double Colorless Energy SUM 136
-* 1 Triple Acceleration Energy UNB 190
 
 Total Cards - 60
 

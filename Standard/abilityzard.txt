@@ -3,32 +3,32 @@
 ##Pokémon - 18
 
 * 1 Turtonator DRM 50
-* 1 Blacephalon UNB 32
 * 1 Heatran-GX UNM 25
 * 2 Reshiram & Charizard-GX PR-SM 201
 * 1 Victini {*} DRM 7
-* 3 Vulpix TEU 15
+* 1 Volcanion PR-SM 179
+* 2 Vulpix TEU 15
 * 2 Ninetales TEU 16
 * 3 Dedenne-GX UNB 57
 * 4 Jirachi PR-SM 161
+* 1 Tapu Fini PR-SM 203
 
-##Trainer Cards - 29
+##Trainer Cards - 25
 
 * 1 Heat Factory {*} LOT 178
 * 4 Cherish Ball UNM 191
-* 4 Pokémon Communication TEU 152
-* 4 Switch CES 147
-* 1 Fiery Flint DRM 60
+* 3 Pokémon Communication TEU 152
+* 3 Switch CES 147
 * 3 Giant Hearth UNM 197
+* 3 Acro Bike PRC 122
 * 1 Pal Pad UPR 132
 * 4 Welder UNB 189
-* 1 Reset Stamp UNM 206
 * 2 Escape Board UPR 122
-* 4 Fire Crystal UNB 173
+* 1 Fire Crystal UNB 173
 
-##Energy - 13
+##Energy - 17
 
-* 13 Fire Energy Energy 2
+* 17 Fire Energy Energy 2
 
 Total Cards - 60
 
