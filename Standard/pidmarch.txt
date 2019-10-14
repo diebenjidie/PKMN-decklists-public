@@ -1,7 +1,8 @@
 ****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 25
+##Pokémon - 28
 
+* 1 Ditto {*} LOT 154
 * 3 Pidgey TEU 122
 * 3 Pidgeotto TEU 123
 * 4 Trumbeak LOT 165
@@ -10,23 +11,27 @@
 * 4 Jumpluff LOT 14
 * 1 Mew UNB 76
 * 2 Natu LOT 87
+* 1 Snorunt UNM 37
+* 1 Froslass UNM 38
 
-##Trainer Cards - 28
+##Trainer Cards - 25
 
 * 4 Professor Elm's Lecture LOT 188
-* 3 Pokémon Communication TEU 152
+* 2 Pokémon Communication TEU 152
 * 4 Lillie SUM 122
-* 1 Reset Stamp UNM 206
+* 1 Shrine of Punishment CES 143
+* 2 Reset Stamp UNM 206
 * 4 Cynthia UPR 119
+* 1 Brock's Grit TEU 135
 * 1 Counter Gain LOT 170
-* 2 Power Plant UNB 183
+* 1 Power Plant UNB 183
 * 3 Lost Blender LOT 181
-* 3 Pokégear 3.0 UNB 182
-* 3 Net Ball LOT 187
+* 2 Net Ball LOT 187
 
 ##Energy - 7
 
-* 7 Grass Energy SMEnergy 1
+* 3 Grass Energy SMEnergy 1
+* 4 Unit Energy {G}{R}{W} UPR 137
 
 Total Cards - 60
 
