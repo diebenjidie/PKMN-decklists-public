@@ -1,18 +1,20 @@
 ****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 28
+##Pokémon - 27
 
+* 1 Ditto {*} LOT 154
 * 1 Oranguru SUM 113
 * 4 Trumbeak LOT 165
+* 1 Machop GRI 62
+* 1 Machoke GRI 64
 * 4 Hoppip LOT 12
 * 4 Skiploom LOT 13
 * 4 Jumpluff LOT 14
-* 4 Emolga TEU 46
 * 2 Marshadow SLG 45
 * 1 Mew UNB 76
 * 4 Natu LOT 87
 
-##Trainer Cards - 25
+##Trainer Cards - 26
 
 * 1 Computer Search BCR 137
 * 1 Rescue Stretcher GRI 130
@@ -23,7 +25,7 @@
 * 2 Net Ball LOT 187
 * 4 Pokémon Communication BLW 99
 * 4 Level Ball NXD 89
-* 3 Lost Blender LOT 181
+* 4 Lost Blender LOT 181
 
 ##Energy - 7
 
