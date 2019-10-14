@@ -1,30 +1,28 @@
-********** Pokémon Trading Card Game Deck List ******
+****** Pokémon Trading Card Game Deck List ******
 
-##Pokémon - 24
+##Pokémon - 25
 
-* 1 Oranguru SUM 113
 * 4 Trumbeak LOT 165
 * 4 Hoppip LOT 12
 * 4 Skiploom LOT 13
 * 4 Jumpluff LOT 14
-* 2 Marshadow SLG 45
+* 3 Marshadow SLG 45
+* 1 Marshadow UNB 81
 * 1 Mew UNB 76
 * 4 Natu LOT 87
 
-##Trainer Cards - 29
+##Trainer Cards - 28
 
 * 1 Computer Search BCR 137
 * 1 Rescue Stretcher GRI 130
 * 4 Lillie SUM 122
 * 1 Shrine of Punishment CES 143
 * 4 Cynthia UPR 119
-* 1 Blue's Tactics UNM 188
 * 1 Guzma BUS 115
-* 2 Net Ball LOT 187
-* 3 Pokémon Communication BLW 99
-* 4 Great Ball SLG 60
+* 4 Pokémon Communication BLW 99
+* 4 Random Receiver DEX 99
 * 4 Level Ball NXD 89
-* 3 Lost Blender LOT 181
+* 4 Lost Blender LOT 181
 
 ##Energy - 7
 
