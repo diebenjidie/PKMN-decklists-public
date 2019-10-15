@@ -1,0 +1,41 @@
+
+
+Using GitHub to version your Pokemon lists via PTCGO
+
+
+Not sure if you're like me but you probably tend to version your decks a lot in PTCGO, if you consider yourself even a little tech-savvy, I recommend using GitHub to version lists. 
+
+GitHub is a versioning application, that devs tend to use to track changes, and collabrorate with others.
+The nice thing about PTCGO is you can export out decklists to clipboard. Then you can paste that in a .txt file.
+
+This means you can version your decklists using GitHub, (a cloud service) to store your lists (to also just clear space in PTCGO), and share those lists with friends, teammates, etc.
+
+With versioning, you can make branches with your teammates/friends etc. meaning multiple people can work and change lists at the same time, then if there's a version or list everyone agrees one, you can finalize one decklist and share that immediately.
+
+But the great thing is, you can make changes to a list, if those changes don't work that well, then you can go back a version, copy that list, and paste that back into PTCGO.
+
+This will generally save time and energy, then having multiple iterations of PikaRom, etc. in your decks online.
+(Or better yet just to have decklists that you want to keep track of, but don't want to commit to wasted space on PTCGO)
+
+Daniel Shiffman explains why this is a good idea way better in his Coding Train series on YouTube
+https://www.youtube.com/watch?v=BCQHnlnPusY
+here's also an interactive tutorial on codeacademy
+https://www.codecademy.com/learn/learn-git
+
+For more tech-savvy people, 
+here's where you can download Git, https://git-scm.com/downloads
+(For not so tech-savvy people, I believe there's a desktop application that helps, but I'm more comfortable with command line, so I never learned or really got these to work, if anyone has an idea of a good application, please link in the comments)
+
+Here's a good tutorial online
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+Here's a cheat sheet so you don't have to commit anything to memory
+https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+
+For my personal what I'm doing is having one folder on my local drive, "pkmndecklists"
+Then in that is my personal and private repo, and in each is a folder for each format available online (except for Theme).
+Then I make a single .txt file for each individual deck, and use the git tools to save between the different versions. 
+
+Here's my personal public repo, feel free to fork, clone, etc.
+https://github.com/diebenjidie/PKMN-decklists-public
+
+
