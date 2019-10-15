@@ -6,7 +6,8 @@
 * 4 Hoppip LOT 12
 * 4 Skiploom LOT 13
 * 4 Jumpluff LOT 14
-* 3 Marshadow SLG 45
+* 1 Girafarig LOT 94
+* 2 Marshadow SLG 45
 * 1 Marshadow UNB 81
 * 1 Mew UNB 76
 * 4 Natu LOT 87
@@ -15,12 +16,12 @@
 
 * 1 Computer Search BCR 137
 * 1 Rescue Stretcher GRI 130
-* 4 Lillie SUM 122
+* 4 Lillie UPR 125
 * 1 Shrine of Punishment CES 143
 * 4 Cynthia UPR 119
 * 1 Guzma BUS 115
 * 4 Pokémon Communication BLW 99
-* 4 Random Receiver DEX 99
+* 4 Great Ball SLG 60
 * 4 Level Ball NXD 89
 * 4 Lost Blender LOT 181
 
