@@ -21,9 +21,10 @@
 * 1 Shrine of Punishment CES 143
 * 4 Cynthia UPR 119
 * 3 Pokémon Communication BLW 99
-* 4 Great Ball SLG 60
+* 3 Great Ball SLG 60
 * 4 Level Ball NXD 89
 * 4 Lost Blender LOT 181
+* 1 Guzma BUS 115
 
 ##Energy - 7
 
